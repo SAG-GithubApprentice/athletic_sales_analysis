@@ -1,11 +1,13 @@
 # athletic_sales_analysis
 
-###Project Summary: Athletic Sales Data Analysis
+Project Summary: Athletic Sales Data Analysis
 
-##Summary:
+Summary:
+
     This project involves the analysis of athletic sales data using Python and the pandas library. The script combines and cleans data from 2020 and 2021, providing insights into various aspects of sales trends. Key analyses include determining regions with the highest products sold, identifying regions with the most sales, and finding retailers with the highest sales. The project also focuses on women's athletic footwear sales, examining both daily and weekly trends. The provided README.md offers a comprehensive guide for installation, usage, and contribution to the project.
 
-##Analysis Steps:
+Analysis Steps:
+
     1. Combine and Clean the Data
     The script reads CSV files for 2020 and 2021, combines them, and cleans the data.
 
@@ -27,7 +29,8 @@
     6. Determine the Week with the Most Women's Athletic Footwear Sales
     Analyzing weekly sales data for women's athletic footwear.
 
-##Acknowlegements:
+Acknowlegements:
+
     I would like to express my gratitude to the following sources that significantly contributed to the development of this project:
 
     Academic Instruction: I am grateful for the foundational knowledge and guidance received through academic instruction. The principles and skills acquired during formal education have provided the essential framework for approaching data analysis challenges
